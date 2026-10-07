@@ -27,7 +27,13 @@
 - Krisna Humani [![GitHub krisnahumanis17](https://img.shields.io/github/followers/krisnahumanis17?label=Follow&style=social)](https://github.com/krisnahumanis17)
 - Muhammad Shafwan Maulana [![GitHub JukJerus](https://img.shields.io/github/followers/JukJerus?label=Follow&style=social)](https://github.com/JukJerus)
 - Roland Roman Topuh [![GitHub RolandRoman](https://img.shields.io/github/followers/RolandRoman?label=Follow&style=social)](https://github.com/RolandRoman)
-- Muhammad Ramadhan Putra Pratama [![GitHub Ramadhanputra1121](https://img.shields.io/github/followers/ramadhanputra1121?label=Follow&style=social)](https://github.com/Ramadhanputra1121)
+- Muhammad Ramadhan Putra Pratama [![GitHub Ramadhanputra1121](https://img.shields.io/github/followers/ramadhanputra1121?label=Follow&style=social)](https://github.com/ramadhanputra1121)
 - Azzahra Agnimaya [![GitHub agnimayaa](https://img.shields.io/github/followers/agnimayaa?label=Follow&style=social)](https://github.com/agnimayaa)
 
 Don't forget to follow guys, thank you ❤️ 🧡 💛 💚 💙 💜 🖤 🤍 🤎
+
+---
+
+### Contributor
+
+- Ayush Kushwaha [![GitHub ayushkushwaha020](https://img.shields.io/github/followers/ayushkushwaha020?label=Follow&style=social)](https://github.com/ayushkushwaha020)
